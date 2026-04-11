@@ -1,25 +1,17 @@
-# jupyterlab
-Python3.11 with Apache Kafka, Apache Spark and Redis for real time data analysis.
+# Analiza danych w czasie rzeczywistym 
 
-```bash
-cd jupyterlab-project
-docker compose up
-```
+**Autor:** Kinga Głódź 121349
 
-## stop
+---
 
-```bash
-ctrl + c 
-docker compose down
-```
+## Praca domowa - Laboratorium 1
 
-### Contain: 
-- Apache Kafka Broker
-- Redis
-- JupyterLab env with Apache Spark
+Rozwiązanie wszystkich zadań z laboratorium oraz pracy domowej znajduje się w podfolderze:  
+**`notebooks/LAB1/`**
 
-### Python libraries
-- flask==3.0.1 fastapi==0.115.5 for production env with python ML model 
-- pennylane==0.39 - You can use it for quantum machine learning
-- pandas==2.0.3 numpy==1.24.4 scipy==1.11.3 matplotlib==3.8.0 sympy==1.12 seaborn==0.13.0
-- kafka-python==2.0.2 confluent_kafka==2.6.0
+### Zawartość rozwiązania:
+* `producer.py` 
+* `consumer_filter.py`, `consumer_enrich.py` 
+* `consumer_count.py`, `consumer_stats.py` 
+* `consumer_anomaly.py` 
+* `LAB1.ipynb` 
