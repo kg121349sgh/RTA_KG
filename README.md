@@ -21,7 +21,7 @@ Rozwiązanie wszystkich zadań z laboratorium oraz pracy domowej znajduje się w
 ## Praca domowa - Laboratorium 2
 
 Rozwiązanie wszystkich zadań z laboratorium oraz pracy domowej znajduje się w podfolderze:  
-**`notebooks/LAB2/`**
+**`LAB2/`**
 
 ### Zawartość rozwiązania:
 * `LAB2.ipynb` — notatnik Jupyter z rozwiązaniami 
