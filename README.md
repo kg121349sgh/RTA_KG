@@ -6,8 +6,8 @@
 
 ## Praca domowa - Laboratorium 1
 
-Rozwiązanie wszystkich zadań z laboratorium oraz pracy domowej znajduje się w podfolderze:  
-**`notebooks/LAB1/`**
+Rozwiązanie wszystkich zadań z laboratorium oraz pracy domowej znajduje się w folderze:  
+**`LAB1/`**
 
 ### Zawartość rozwiązania:
 * `producer.py` 
